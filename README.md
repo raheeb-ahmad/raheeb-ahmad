@@ -25,7 +25,6 @@ My focus right now is at the intersection of **AI tooling and game development**
 - 📄 Creator of [**GameDocs AI**](https://github.com/raheeb-ahmad/gamedocs-ai) — RAG system for game devs; query your GDD with Claude + Gemini embeddings + Pinecone
 - 🐛 Creator of [**InGameDebugConsole**](https://github.com/raheeb-ahmad/InGameDebugConsole) — Runtime logcat overlay for Unity Android builds, no ADB or PC required
 - 🏆 **SOFTEC '26 Game Jam Winner** — 1st place with "One More Fix" (48-hour build)
-- 🎯 Open to: AI Engineering, ML roles, Game Systems Engineering
 
 ---
 
