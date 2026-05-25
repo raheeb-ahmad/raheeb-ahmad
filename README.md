@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Raheeb Ahmad 👋</h1>
 
-<!--
-**raheeb-ahmad/raheeb-ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>AI Engineer · Unity Game Developer</b><br>
+  Building tools where AI meets game development
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://raheeb-ahmad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/raheeb-ahmad-48205a21a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/raheeb-ahmad"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=raheeb-ahmad&style=flat&color=6366f1&label=profile+views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+I'm a Software Engineer and Unity game developer with **4+ years** of professional experience and **50+ shipped games** reaching **100M+ combined downloads**.
+
+My focus right now is at the intersection of **AI tooling and game development** — building MCP servers, autonomous dev agents, and AI-powered workflows for Unity. I'm actively pivoting toward AI/ML engineering and looking for roles where I can apply both skill sets.
+
+- 🔭 Currently building [**The Hawala Network**](https://github.com/raheeb-ahmad) — a post-apocalyptic co-op FPS roguelite for Steam (Unity 6 URP)
+- 🧠 Creator of [**EditorMind MCP**](https://github.com/raheeb-ahmad/editormind-mcp) — AI agent control for the Unity Editor via Model Context Protocol
+- 📄 Creator of [**GameDocs AI**](https://github.com/raheeb-ahmad/gamedocs-ai) — RAG system for game devs; query your GDD with Claude + Gemini embeddings + Pinecone
+- 🐛 Creator of [**InGameDebugConsole**](https://github.com/raheeb-ahmad/InGameDebugConsole) — Runtime logcat overlay for Unity Android builds, no ADB or PC required
+- 🏆 **SOFTEC '26 Game Jam Winner** — 1st place with "One More Fix" (48-hour build)
+- 🎯 Open to: AI Engineering, ML roles, Game Systems Engineering
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**EditorMind MCP**](https://github.com/raheeb-ahmad/editormind-mcp) | Claude Code controls your Unity Editor — reads scripts, writes files, queries compile errors autonomously | C#, TypeScript, MCP |
+| [**The Hawala Network**](https://github.com/raheeb-ahmad) | Post-apocalyptic South Asian co-op FPS roguelite — 1–4 players, Steam | Unity 6, C#, URP |
+| [**GameDocs AI**](https://github.com/raheeb-ahmad/gamedocs-ai) | AI-powered game design document generator | TypeScript |
+| [**InGameDebugConsole**](https://github.com/raheeb-ahmad/InGameDebugConsole) | Runtime debug overlay for Unity Android — no ADB, no plugins | C# |
+
+---
+
+### 🛠 Tech Stack
+
+**Game Dev**
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![URP](https://img.shields.io/badge/URP-000000?style=flat&logo=unity&logoColor=white)
+![Mixamo](https://img.shields.io/badge/Mixamo-FF0000?style=flat&logo=adobe&logoColor=white)
+
+**AI & Dev Tools**
+![Claude](https://img.shields.io/badge/Claude_Code-D4A27A?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-6366f1?style=flat&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Web & Tools**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raheeb-ahmad&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheeb-ahmad&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" height="165" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+- 💼 [Portfolio](https://raheeb-ahmad.vercel.app)
+- 🔗 [LinkedIn](https://linkedin.com/in/raheeb-ahmad-48205a21a)
+- 📧 Reach out via LinkedIn for collaboration or opportunities
+
+<p align="center">
+  <i>Building the future of AI-assisted game development, one commit at a time.</i>
+</p>
