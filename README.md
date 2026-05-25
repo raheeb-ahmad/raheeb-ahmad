@@ -64,8 +64,8 @@ My focus right now is at the intersection of **AI tooling and game development**
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raheeb-ahmad&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=e2e8f0" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheeb-ahmad&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0" height="165" />
+  <img src="https://streak-stats.demolab.com?user=raheeb-ahmad&theme=dark&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raheeb-ahmad&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e2e8f0&cache_seconds=1800" height="165" />
 </p>
 
 ---
