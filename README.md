@@ -18,7 +18,7 @@
 
 I'm a Software Engineer and Unity game developer with **4+ years** of professional experience and **50+ shipped games** reaching **100M+ combined downloads**.
 
-My focus right now is at the intersection of **AI tooling and game development** — building MCP servers, autonomous dev agents, and AI-powered workflows for Unity. I'm actively pivoting toward AI/ML engineering and looking for roles where I can apply both skill sets.
+My focus right now is at the intersection of **AI tooling and game development** , building MCP servers, autonomous dev agents, and AI-powered workflows for Unity. I'm actively pivoting toward AI/ML engineering and looking for roles where I can apply both skill sets.
 
 - 🔭 Currently building [**The Hawala Network**](https://github.com/raheeb-ahmad) — a post-apocalyptic co-op FPS roguelite for Steam (Unity 6 URP)
 - 🧠 Creator of [**EditorMind MCP**](https://github.com/raheeb-ahmad/editormind-mcp) — AI agent control for the Unity Editor via Model Context Protocol
