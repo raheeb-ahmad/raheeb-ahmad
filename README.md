@@ -20,7 +20,6 @@ I'm a Software Engineer and Unity game developer with **4+ years** of profession
 
 My focus right now is at the intersection of **AI tooling and game development** , building MCP servers, autonomous dev agents, and AI-powered workflows for Unity. I'm actively pivoting toward AI/ML engineering and looking for roles where I can apply both skill sets.
 
-- 🔭 Currently building [**The Hawala Network**](https://github.com/raheeb-ahmad) — a post-apocalyptic co-op FPS roguelite for Steam (Unity 6 URP)
 - 🧠 Creator of [**EditorMind MCP**](https://github.com/raheeb-ahmad/editormind-mcp) — AI agent control for the Unity Editor via Model Context Protocol
 - 📄 Creator of [**GameDocs AI**](https://github.com/raheeb-ahmad/gamedocs-ai) — RAG system for game devs; query your GDD with Claude + Gemini embeddings + Pinecone
 - 🐛 Creator of [**InGameDebugConsole**](https://github.com/raheeb-ahmad/InGameDebugConsole) — Runtime logcat overlay for Unity Android builds, no ADB or PC required
