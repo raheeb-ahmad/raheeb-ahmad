@@ -35,7 +35,7 @@ My focus right now is at the intersection of **AI tooling and game development**
 | [**EditorMind MCP**](https://github.com/raheeb-ahmad/editormind-mcp) | Claude Code controls your Unity Editor — reads scripts, writes files, queries compile errors autonomously | C#, TypeScript, MCP |
 | [**The Hawala Network**](https://github.com/raheeb-ahmad) | Post-apocalyptic South Asian co-op FPS roguelite — 1–4 players, Steam | Unity 6, C#, URP |
 | [**GameDocs AI**](https://github.com/raheeb-ahmad/gamedocs-ai) | RAG system for game devs — upload your GDD, query it with Claude + Gemini embeddings + Pinecone, get cited answers | Next.js, TypeScript, Claude, Pinecone |
-| **Khaka.ai** | AI house design platform — input plot specs, get floor plan(bylaw satisfied) → 3D → interior placement → export-ready PDF drawings | Next.js, TypeScript, Claude |
+| [**Khaka.ai**](https://khaka-ai.vercel.app) | AI house design platform — input plot specs, get floor plan(bylaw satisfied) → 3D → interior placement → export-ready PDF drawings | Next.js, TypeScript, Claude |
 | [**InGameDebugConsole**](https://github.com/raheeb-ahmad/InGameDebugConsole) | Runtime logcat overlay for Unity Android builds — see backend thread logs on-device, no ADB or PC required | C# |
 
 ---
